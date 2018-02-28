@@ -9,6 +9,7 @@
 Zip 版： LinuxTweaker/releases/
 
 ## 目前支援的發行版
+通用版皆指 all 版本。
 - Debian
   - 名稱： StarDebianTweaker
   - 支援桌面環境： GNOME 3、通用版
