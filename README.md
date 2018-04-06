@@ -11,7 +11,9 @@ Zip 版本在 release 區。
 通用版皆指 all 版本。
 - Debian
   - 名稱： StarDebianTweaker
-  - 支援桌面環境： GNOME 3、通用版
+  - 支援桌面環境： GNOME 3、通用版、MATE 版、KDE 版本
 
 ## 目前的最新版本
-版本 1.0 - 2018.03.01 釋出
+GNOME 3、通用版、MATE 版：版本 1.1 - 2018.03.04 釋出
+
+KDE 版：版本 1.2 - 2018.04.06 釋出
