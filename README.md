@@ -6,8 +6,7 @@
 ## 如何下載
 原始碼： LinuxTweaker/src/
 
-Zip 版： LinuxTweaker/releases/
-
+Zip 版本在 release 區。
 ## 目前支援的發行版
 通用版皆指 all 版本。
 - Debian
