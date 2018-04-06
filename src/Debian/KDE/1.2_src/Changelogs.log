@@ -1,0 +1,12 @@
+Star Debian Tweaker Changelog
+
+1.2 （KDE 分支）
+來自 all 分支。
+ - 移除無用 KDE 軟體，加速 KDE。
+ - 移除增加 sid 庫過程
+ - 移除安裝解碼器步驟（可能導致問題）
+ - 替換 ibus 至 fctix。
+1.1 （通用分支）
+ - 增加 bleachbit 的安裝
+1.0（通用分支）
+ - 第一次更新
