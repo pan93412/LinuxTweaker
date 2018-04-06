@@ -1,5 +1,9 @@
 Star Debian Tweaker Changelog
 
+1.2.1 （KDE 分支）
+微幅更新。
+ - 修正安裝 bleachbit 時不會接續安裝的 Bug
+ - 移除了移除 scim 以前的五秒延遲
 1.2 （KDE 分支）
 來自 all 分支。
  - 移除無用 KDE 軟體，加速 KDE。

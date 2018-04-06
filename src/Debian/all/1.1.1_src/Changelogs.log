@@ -1,5 +1,7 @@
 Star Debian Tweaker Changelog
 
+1.1.1 （通用分支）
+ - 修正安裝 bleachbit 時不會接續安裝的 Bug
 1.1 （通用分支）
  - 增加 bleachbit 的安裝
 1.0（通用分支）
